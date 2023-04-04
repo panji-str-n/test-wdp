@@ -1,0 +1,9 @@
+.container-1 {
+    max-width: 800px;
+    min-width: 400px;
+    height: 100px;
+    background-color: red;
+}
+#border-hijau {
+    border-color: green;
+}
